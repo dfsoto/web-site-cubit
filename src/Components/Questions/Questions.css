@@ -1,0 +1,16 @@
+.container-question {
+    margin-top: 60px;
+}
+.accordion-button:not(.collapsed) {
+    color: #212529;
+    background-color: #f0a500;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+    font-weight: bold;
+}
+:root{
+    --primary: #F0A500;
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}

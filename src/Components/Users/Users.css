@@ -1,0 +1,22 @@
+.user-card{
+    cursor: pointer;
+}
+.img-user {
+    width: 80px;
+    border-radius: 50px;
+}
+.div-list {
+    margin-top: 30px;
+}
+.card-img-user {
+    width: 200px;
+    height: 250px;
+}
+
+:root{
+    --primary: #F0A500;
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}

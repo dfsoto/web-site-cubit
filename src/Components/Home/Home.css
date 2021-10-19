@@ -1,0 +1,16 @@
+:root{
+    --primary: #F0A500;
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}
+
+.content{
+    max-width: 500px;
+}
+
+.img-fluid{
+    margin-top: 100px;
+    border-radius: 10%;
+}
